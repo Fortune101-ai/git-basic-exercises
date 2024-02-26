@@ -1,0 +1,500 @@
+  298  git status
+  299  git commit -m "initial commit"
+  300  git status
+  301  git checkout master
+  302  git pull
+  303  git checkout -b task/1
+  304  ls
+  305  nano task1.js
+  306  git status
+  307  git branch
+  308  git add .
+  309  git commit -m "added task 1"
+  310  git log
+  311  git checkout master
+  312  git log
+  313  git checkout task/1
+  314  git log
+  315  git branch
+  316  git log
+  317  git status
+  318  git log
+  319  git branch
+  320  git log
+  321  ls
+  322  git branch
+  323  git git add task1.js
+  324  git add task1.js
+  325  gut status
+  326  git status
+  327  git log
+  328  git branch
+  329  git checkout master
+  330  git merge task/1
+  331  git log
+  332  git remote add origin https://github.com/Fortune101-ai/Level-1-coding-challenges.git
+  333  git branch -M master
+  334  git push origin master
+  335  git push origin task/1
+  336  git checkout -b task/2
+  337  git status
+  338  nano task2.js
+  339  git add .
+  340  git status
+  341  git commit -m "added task 3"
+  342  ls
+  343  git branch
+  344  git checkout master
+  345  rm task/1
+  346  rm -r task/1
+  347  git branch -b task/1
+  348  cd ../
+  349  rm -r codingChallenges
+  350  ls
+  351  mkdir codingChallenges
+  352  cd codingChallenges
+  353  git init
+  354  nano README.md
+  355  git add .
+  356  git commit -m "initial commit"
+  357  git remote add origin https://github.com/Fortune101-ai/Level-1-coding-challenges.git
+  358  git branch -M master
+  359  git push -u origin master
+  360  git checkout master
+  361  git pull
+  362  git checkout -b task/1
+  363  nano task1.js
+  364  git add task1.js
+  365  git commit -m "added task 1"
+  366  git log
+  367  git push -u origin task/1
+  368  git checkout -b task/2
+  369  nano task2.js
+  370  ls
+  371  git add task2.js
+  372  git status
+  373  git commit -m "added task 2"
+  374  git push -u origin task/2
+  375  git log
+  376  git checkout -b task/3
+  377  nano task3.js
+  378  git add task3.js
+  379  git commit -m "added task 3"
+  380  git push -u origin task/3
+  381  git checkout -b task/4
+  382  nano task4.js
+  383  git add task4.js
+  384  git commit -m "added task 4"
+  385  git push -u origin task/4
+  386  git checkout -b task/5
+  387  nano task5.js
+  388  git add task5.js
+  389  git commit -m "added task 5"
+  390  git push -u origin task/5
+  391  git checkout -b task/6
+  392  nano task6.js
+  393  git add task6.js
+  394  git commit -m "added task 6"
+  395  git push -u origin task/6
+  396  git checkout master
+  397  git pull
+  398  git checkout -b task/7
+  399  nano task7.js
+  400  git add task7.js
+  401  git commit -m "added task 7"
+  402  git push -u origin task/7
+  403  ls
+  404  cd storage
+  405  cd downloads
+  406  ls
+  407  cd umuzi1
+  408  ls
+  409  cd codingL1
+  410  ls
+  411  cd Level-1-coding-challenges
+  412  ls
+  413  cd ../
+  414  ls
+  415  git clone https://github.com/Umuzi-org/Fortune-Mahloane-219-level-1-programming-katas-javascript.git
+  416  ls
+  417  cd Fortune-Mahloane-219-level-1-programming-katas-jav
+  418  cd Fortune-Mahloane-219-level-1-programming-katas-javascript
+  419  git pull
+  420  git config --global --add safe.directory /storage/emulated/0/Download/umuzi1/codingL1/Fortune-Mahloane-219-level-1-programming-katas-javascript
+  421  git pull
+  422  ls
+  423  git log --oneline
+  424  git config --global --add safe.directory /storage/emulated/0/Download/Umuzi1/codingL1/Fortune-Mahloane-219-level-1-programming-katas-javascript
+  425  git log --oneline
+  426  git branch
+  427  ls
+  428  git status
+  429  git checkout -b task/1
+  430  git add task1.js
+  431  git status
+  432  git commit -m "added task 1"
+  433  git checkout -b task/2
+  434  git add task2.js
+  435  git status
+  436  git commit -m "added task 2"
+  437  git checkout task/3
+  438  git checkout -b task/3
+  439  git add task3.js
+  440  git status
+  441  git commit -m "added task 3"
+  442  git checkout task/2
+  443  git log
+  444  git checkout -b task/4
+  445  git add task4.js
+  446  git commit -m "added task 4"
+  447  git checkout -b task/5
+  448  git add task5.js
+  449  git commit -m "added task 5"
+  450  git status
+  451  git checkout -b task/6
+  452  git add task6.js
+  453  git commit -m "added task 6"
+  454  git checkout -b task/7
+  455  git add task7.js
+  456  git commit -m "added task 7"
+  457  git status
+  458  git checkout main
+  459  git branch
+  460  git log
+  461  git log --oneline
+  462  git checkout task/7
+  463  git log
+  464  git status
+  465  git checkout task/3
+  466  git log
+  467  git status
+  468  git checkout main
+  469  git status
+  470  git remote add origin https://github.com/Umuzi-org/Fortune-Mahloane-219-level-1-programming-katas-javascript.git
+  471  git push -u origin master
+  472  git push -u origin main
+  473  git push -u origin task/1
+  474  git push -u origin task/2
+  475  git push -u origin task/3
+  476  git push -u origin task/4
+  477  git push -u origin task/5
+  478  git push -u origin task/6
+  479  git push -u origin task/7
+  480  ls
+  481  cd storage/downloads/umuzi1
+  482  ls
+  483  cd LevelOne
+  484  ls
+  485  git init
+  486  git status
+  487  git log
+  488  node task5.js
+  489  nano task5.js
+  490  la
+  491  ls -a
+  492  npm install --save-dev jasmine
+  493  npx jasmine init
+  494  "scripts": { "test": "jasmine" }
+  495  npm install --save-dev jasmine-browser-runner jasmine-core
+  496  ls
+  497  cd storage/downloads/umuzi1
+  498  ls
+  499  mkdir git-basic-exercises
+  500  cd git-basic-exercises
+  501  ls -a
+  502  git init
+  503  ls -a
+  504  git status
+  505  git config --global --add safe.directory /storage/emulated/0/Download/umuzi1/git-basic-exercises
+  506  git status
+  507  touch README.md
+  508  git status
+  509  git log
+  510  git add .
+  511  git status
+  512  git rm --cached README.md
+  513  git status
+  514  git add .
+  515  git commit -m "initial commit"
+  516  git log
+  517  nano README.md
+  518  cat README.md
+  519  nano README.md
+  520  git status
+  521  git add README.md
+  522  git status
+  523  git commit -m "second commit"
+  524  git log
+  525  nano README.md
+  526  cat README.md
+  527  nano README.md
+  528  cat README.md
+  529  git log
+  530  git add .
+  531  git commit -m "third commit"
+  532  git log
+  533  git checkout da9ba401035768ef337a94ee522a91004229ad43
+  534  git log
+  535  cat README.md
+  536  git checkout master
+  537  git log
+  538  git branch
+  539  git checkout master
+  540  git pull origin master
+  541  git log
+  542  git branch -m main
+  543  git branch
+  544  git checkout -b milkshake-flavours
+  545  nano milkshakes.md
+  546  git status
+  547  git add milkshakes.md
+  548  git status
+  549  git commit -m "added initial flavours"
+  550  ls
+  551  git log
+  552  git checkout main
+  553  git log
+  554  git checkout -b history
+  555  git log
+  556  git branch
+  557  history > history.txt
+  558  ls
+  559  git branch
+  560  git status
+  561  git add history.txt
+  562  git commit -m "added history"
+  563  git log
+  564  git checkout milkshake-flavours
+  565  git log
+  566  nano README.md
+  567  git status
+  568  git add README.md
+  569  git commit -m "random readme changes"
+  570  git checkout history
+  571  cat README.md
+  572  git branch
+  573  rm README.md
+  574  echo "booya" > README.md
+  575  cat README.md
+  576  git status
+  577  git add README.md
+  578  git commit -m "rewrote readme"
+  579  git checkout main
+  580  ls
+  581  git log
+  582  git checkout milkshake-flavours
+  583  ls
+  584  git log
+  585  git checkout history
+  586  ls
+  587  git log
+  588  git checkout main
+  589  git merge milkshake-flavours
+  590  ls
+  591  git log
+  592  git checkout history
+  593  git log
+  594  ls
+  595  git checkout milkshake-flavours
+  596  git log
+  597  ls
+  598  git checkout history
+  599  git merge main
+  600  ls
+  601  nano README.md
+  602  git merge main
+  603  git status
+  604  git add .
+  605  git status
+  606  git commit
+  607  git commit -m "fixed merging conflicts"
+  608  ls
+  609  git log
+  610  git branch
+  611  git checkout main
+  612  git status
+  613  git checkout history
+  614  git status
+  615  git checkout milkshake-flavours
+  616  git status
+  617  git checkout main
+  618  git remote add origin https://github.com/Fortune101-ai/git-basic-exercises.git
+  619  git branch -M main
+  620  git push -u origin main
+  621  git push -u origin milkshake-flavours
+  622  git push -u origin history
+  623  cd ../
+  624  git clone https://github.com/Umuzi-org/a-repo-to-clone.git
+  625  ls
+  626  cd a-repo-to-clone
+  627  git branch
+  628  git config --global --add safe.directory /storage/emulated/0/Download/umuzi1/a-repo-to-clone
+  629  git branch
+  630  git log
+  631  git branch -a
+  632  bit checkout a-branch-with-a-few-commits
+  633  git checkout a-branch-with-a-few-commits
+  634  git log
+  635  git status
+  636  git remote -v
+  637  git branch -d a-branch-with-a-few-commits
+  638  git checkout remotes/origin/a-branch-with-a-few-commits
+  639  git branch
+  640  branch -d a-branch-with-a-few-commits
+  641  git branch delete a-branch-with-a-few-commits
+  642* 
+  643  git branch -delete a-branch-with-a-few-commits
+  644  git branch --delete a-branch-with-a-few-commits
+  645  git branch --delete delete
+  646  git branch
+  647  git checkout main
+  648  git branch
+  649  git checkout remotes/origin/a-branch-with-a-few-commits
+  650  git log
+  651  git remote -v
+  652  cd ../git-basic-exercises
+  653  git log
+  654  cd ../
+  655  mkdir this-will-be-another-repo
+  656  cd this-will-be-another-repo
+  657  ls
+  658  git init
+  659  git branch -m main
+  660* git config --global --add safe.directory /storage/emulated/0/Download/umuzi1/this-will-be-another-repo
+  661  git branch -m main
+  662  git branch
+  663  git log
+  664  touch README.md
+  665  ls
+  666  cd ../git-basic-exercises
+  667  git log
+  668  touch ignore-me.db
+  669  git status
+  670  nano .gitignore
+  671  git status
+  672  mkdir large-directory-that-should-be-local-only
+  673  cd large-directory-that-should-be-local-only
+  674  nano readme.md
+  675  cd ...
+  676  cd ../
+  677  git status
+  678  nano .gitignore
+  679  git status
+  680  git add .gitignore
+  681  git status
+  682  git commit -m "added .gitignore"
+  683  git push -u origin main
+  684  cd ../
+  685  git clone https://github.com/Fortune101-ai/git-basic-exercises.git
+  686  rm git-basic-exercises
+  687  rm -r git-basic-exercises
+  688  ls
+  689  git clone https://github.com/Fortune101-ai/git-basic-exercises.git
+  690  git log
+  691  cd git-basic-exercises
+  692  git log
+  693  git branch
+  694  git merge history
+  695  git pull
+  696  git branch -a
+  697  git checkout origin/history
+  698  git branch
+  699  git log
+  700  git checkout main
+  701  git merge origin/history
+  702  git commit -m "merged history into main"
+  703  git log
+  704  ls
+  705  git branch
+  706  git push -u origin main
+  707  git checkout origin/history
+  708  git merge main
+  709  ls
+  710  git log
+  711  cd ../
+  712  rm -r
+  713  rm -r git-basic-exercises
+  714  mkdir git-basic-exercises
+  715  cd git-basic-exercises
+  716  git init
+  717  git branch -m main
+  718  git branch
+  719  git branch -M main
+  720  git branch
+  721  touch README.md
+  722  cd ../
+  723  git clone https://github.com/Fortune101-ai/git-basic-exercises.git
+  724  rm -r git-basic-exercises
+  725  git clone https://github.com/Fortune101-ai/git-basic-exercises.git
+  726  cd git-basic-exercises
+  727  git log
+  728  git checkout 8a3ad25f521dd6340b7cbea57da35dbf65a88b9d
+  729  git log
+  730  git checkout main
+  731  git log
+  732  git checkout 87955bae22680226a88075e44731afb7f0f12c5a
+  733  git log
+  734  git branch
+  735  git checkout main
+  736  git log --oneline
+  737  git reset --hard HEAD~1
+  738  git log --oneline
+  739  git checkout origin/README.md
+  740  git checkout origin/history
+  741  git log --online
+  742  git log --oneline
+  743  git reset --hard HEAD~1
+  744  cat README.md
+  745  git checkout main
+  746  ls
+  747  git checkout origin/history
+  748  git log --oneline
+  749  git reset --hard HEAD~1
+  750  ls
+  751  git log --oneline
+  752  git branch
+  753  git checkout history
+  754  git checkout milkshake-flavours
+  755  git pull origin/milkshake-flavours
+  756  cd ../
+  757  rm -r git-basic-exercises
+  758  mkdir git-basic-exercises
+  759  cd git-basic-exercises
+  760  git init
+  761  git branch -M main
+  762  git branch
+  763  ls -a
+  764  git status
+  765  touch README.md
+  766  ls -a
+  767  git status
+  768  git log
+  769  git add README.md
+  770  git status
+  771  git rm --cached README.md
+  772  git status
+  773  git add .
+  774  git commit -m "initial commit"
+  775  git log
+  776  nano README.md
+  777  git status
+  778  git add README.md
+  779  git commit -m "second commit"
+  780  nano README.md
+  781  git status
+  782  git add README.md
+  783  git status
+  784  git log
+  785  git commit -m "third commit"
+  786  git branch
+  787  git checkout milkshake-flavours
+  788  git checkout -b  milkshake-flavours
+  789  nano milkshakes.md
+  790  git status
+  791  git add milkshakes.md
+  792  git commit -m "added initial flavours"
+  793  git checkout main
+  794  git checkout -b history
+  795  git log
+  796  git branch
+  797  history > history.txt
